@@ -1,0 +1,12 @@
+# Data files - live in S3
+hmda_raw/
+*.csv
+*.parquet
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.env
